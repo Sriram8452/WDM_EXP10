@@ -26,5 +26,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/06a2d796-3a82-4681-99c3-05f4eba6b229)
+![Screenshot 2025-03-22 001654](https://github.com/user-attachments/assets/f58d4239-5b0e-44c9-b41a-e231ef9c2338)
 
 ### Result:
+Thus, successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
